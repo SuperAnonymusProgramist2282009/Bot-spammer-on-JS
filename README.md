@@ -8,7 +8,7 @@
 
 ```npm install readline```
 
-3.Перенеситесь в деректорию где лежит файл DDos for Minecraft servers.js камандой:
+3.Перенеситесь в деректорию где лежит файл DDos for Minecraft servers.js командой:
 
 ```cd C:\папка\с\файлом```
 
