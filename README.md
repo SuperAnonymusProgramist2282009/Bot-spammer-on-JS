@@ -2,8 +2,8 @@
 
 lib:
 
-npm install mineflayer
+```npm install mineflayer```
 
-npm install readline
+```npm install readline```
 
 
